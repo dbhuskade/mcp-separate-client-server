@@ -1,0 +1,8 @@
+tavily-python
+langchain-groq
+langchain-mcp-adapters
+langgraph
+mcp
+fastmcp
+fastapi
+uvicorn
